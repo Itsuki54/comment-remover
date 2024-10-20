@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "ts-morph": "^24.0.0"
+  },
+  "bin": {
+    "comment-remover": "dist/index.js"
   }
 }
