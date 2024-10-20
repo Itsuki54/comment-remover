@@ -39,6 +39,4 @@ export class CommentRemover {
     }
 }
 
-const remove = new CommentRemover();
-
-remove.remover('./src');
+export const remove = new CommentRemover();
