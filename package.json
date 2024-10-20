@@ -1,6 +1,6 @@
 {
-  "name": "comment-remover",
-  "version": "1.0.0",
+  "name": "@itsuki54/comment-remover",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
